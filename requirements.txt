@@ -1,0 +1,32 @@
+# Music Genre Sorter - Wymagane biblioteki
+
+# Analiza metadanych plików muzycznych
+mutagen==1.47.0
+eyed3==0.9.7
+
+# Wyszukiwanie informacji w internecie
+requests==2.31.0
+beautifulsoup4==4.12.2
+spotipy==2.23.0
+
+# Interfejs użytkownika
+tkinter-tooltip==2.1.0
+customtkinter==5.2.0
+
+# Analiza audio (opcjonalne - dla zaawansowanej analizy)
+librosa==0.10.1
+numpy==1.24.3
+scipy==1.11.1
+
+# Obsługa różnych formatów
+pydub==0.25.1
+
+# Konfiguracja i logi
+python-dotenv==1.0.0
+colorlog==6.7.0
+
+# AI/ChatGPT integration
+openai>=2.0.0
+
+# Testowanie
+pytest==7.4.0

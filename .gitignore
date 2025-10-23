@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual envs
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# App outputs
+reports/
+playlists/
+
+# User configs
+user_settings.json
+user_theme.json
+music_sorter.log
